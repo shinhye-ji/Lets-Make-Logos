@@ -14,9 +14,9 @@ This one was a breakthrough project for me, working with Node.js and Operation O
 
 ## Technologies Used
 
-JavaScript
-Node.JS
-OOP(Operation Oriented Programming)
+JavaScript\
+Node.JS\
+OOP(Operation Oriented Programming)\
 SVG
 
 ## Screenshots
@@ -31,8 +31,8 @@ Demo Link [HERE]()
 
 ## How to Use
 
---1. Open up the terminal (ex. git bash, terminal)
---2. 'cd' into the lets-make-logos folder (ex. cd bootcamp/homework/lets-make-logos)
---3. Type 'node index' or 'node index.js' (.js will be assumed by terminal)
---4. Answer the prompted questions for your desired logo.
---5. The terminal will let you know when your logo has been generated.
+1. Open up the terminal (ex. git bash, terminal)\
+2. 'cd' into the lets-make-logos folder (ex. cd bootcamp/homework/lets-make-logos)\
+3. Type 'node index' or 'node index.js' (.js will be assumed by terminal)\
+4. Answer the prompted questions for your desired logo.\
+5. The terminal will let you know when your logo has been generated.
