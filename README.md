@@ -21,9 +21,13 @@ SVG
 
 ## Screenshots
 
-Demo Link [HERE]()
+### Demo
 
-![img]()
+![gif](./img/Untitled_%20Jan%2025,%202024%2010_23%20PM.gif)
+
+Demo Link [HERE](https://drive.google.com/file/d/1jmSyQ1xxlEjkZ2G5VHmMJ0zX_YsJCg7v/view)
+
+![img](./img/Screenshot%202024-01-25%20222730.png)
 
 ## Contact
 
@@ -31,8 +35,8 @@ Demo Link [HERE]()
 
 ## How to Use
 
-1. Open up the terminal (ex. git bash, terminal)\
-2. 'cd' into the lets-make-logos folder (ex. cd bootcamp/homework/lets-make-logos)\
-3. Type 'node index' or 'node index.js' (.js will be assumed by terminal)\
-4. Answer the prompted questions for your desired logo.\
+1. Open up the terminal (ex. git bash, terminal)
+2. 'cd' into the lets-make-logos folder (ex. cd bootcamp/homework/lets-make-logos)
+3. Type 'node index' or 'node index.js' (.js will be assumed by terminal)
+4. Answer the prompted questions for your desired logo.
 5. The terminal will let you know when your logo has been generated.
